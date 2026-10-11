@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Icône du Prescripteur : silhouette « mannequin » en fente avant, jambe avant mise en évidence (ocre).
+       Fond plein bord à bord (compatible « maskable ») ; le motif reste dans la zone sûre centrale (80 %). -->
+  <rect width="512" height="512" fill="#1f6f6b"/>
+  <circle cx="256" cy="256" r="196" fill="#175955"/>
+  <line x1="120" y1="392" x2="392" y2="392" stroke="#e3f0ee" stroke-width="10" stroke-linecap="round" opacity="0.55"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- jambe arrière -->
+    <path d="M250 262 L206 322 L156 386" stroke="#11433f" stroke-width="40"/>
+    <path d="M250 262 L206 322 L156 386" stroke="#c3cfbf" stroke-width="30"/>
+    <!-- bras arrière -->
+    <path d="M258 168 L222 214 L196 250" stroke="#11433f" stroke-width="30"/>
+    <path d="M258 168 L222 214 L196 250" stroke="#c3cfbf" stroke-width="21"/>
+    <!-- tronc -->
+    <path d="M250 262 L260 166" stroke="#11433f" stroke-width="54"/>
+    <path d="M250 262 L260 166" stroke="#e3eadf" stroke-width="44"/>
+    <!-- jambe avant (mise en évidence) -->
+    <path d="M250 262 L320 290 L322 384" stroke="#6f470c" stroke-width="42"/>
+    <path d="M250 262 L320 290 L322 384" stroke="#e8bd6a" stroke-width="32"/>
+    <!-- bras avant -->
+    <path d="M260 168 L300 206 L338 184" stroke="#11433f" stroke-width="30"/>
+    <path d="M260 168 L300 206 L338 184" stroke="#e3eadf" stroke-width="21"/>
+  </g>
+  <circle cx="266" cy="118" r="30" fill="#e3eadf" stroke="#11433f" stroke-width="6"/>
+</svg>
