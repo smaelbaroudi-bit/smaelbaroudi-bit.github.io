@@ -1,5 +1,5 @@
 // Service worker généré par scripts/build-pwa.mjs — ne pas modifier à la main.
-const CACHE = 'prescripteur-8b9338dee1b7';
+const CACHE = 'prescripteur-ad8ee9670a12';
 const FILES = ["./","index.html","manifest.webmanifest","icon-192.png","icon-512.png","apple-touch-icon.png","favicon-32.png","icon.svg"];
 
 self.addEventListener('install', (event) => {
