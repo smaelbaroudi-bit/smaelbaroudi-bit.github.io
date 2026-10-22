@@ -1,4 +1,4 @@
-# Prescripteur d'exercices — version installable
+# KINEX — version installable
 
 Version compilée (PWA) de l'application : https://smaelbaroudi-bit.github.io/prescripteur/
 
